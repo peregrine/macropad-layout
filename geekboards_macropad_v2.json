@@ -1,0 +1,64 @@
+{
+  "name": "Geekboards Macropad v2",
+  "vendorProductId": 75735922,
+  "macros": [
+    "{KC_LALT,KC_LSFT}",
+    "{KC_LSFT,KC_LGUI,KC_A}",
+    "{KC_LSFT,KC_LGUI,KC_V}",
+    "{KC_LSFT,KC_LGUI,KC_LALT, KC_U}",
+    "{KC_LSFT,KC_LGUI,KC_LALT,KC_LCTL, KC_U}",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "layers": [
+    [
+      "MACRO03",
+      "MACRO01",
+      "MACRO02",
+      "MACRO00",
+      "MACRO04",
+      "KC_MPRV",
+      "KC_MNXT",
+      "KC_MPLY"
+    ],
+    [
+      "KC_TRNS",
+      "RGB_VAI",
+      "RGB_HUI",
+      "RGB_SPI",
+      "RGB_MOD",
+      "RGB_VAD",
+      "RGB_HUD",
+      "RGB_SPD"
+    ],
+    [
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
+    ],
+    [
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
+    ]
+  ]
+}
