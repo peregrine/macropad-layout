@@ -5,8 +5,8 @@
     "{KC_LALT,KC_LSFT}",
     "{KC_LSFT,KC_LGUI,KC_A}",
     "{KC_LSFT,KC_LGUI,KC_V}",
-    "{KC_LSFT,KC_LGUI,KC_LALT, KC_U}",
-    "{KC_LSFT,KC_LGUI,KC_LALT,KC_LCTL, KC_U}",
+    "{KC_LSFT,KC_LGUI,KC_LALT,KC_U}",
+    "{KC_LGUI,KC_D}",
     "",
     "",
     "",
@@ -21,11 +21,11 @@
   ],
   "layers": [
     [
-      "MACRO03",
-      "MACRO01",
-      "MACRO02",
-      "MACRO00",
-      "MACRO04",
+      "MACRO(3)",
+      "MACRO(1)",
+      "MACRO(2)",
+      "MACRO(0)",
+      "MACRO(4)",
       "KC_MPRV",
       "KC_MNXT",
       "KC_MPLY"
@@ -60,5 +60,6 @@
       "KC_TRNS",
       "KC_TRNS"
     ]
-  ]
+  ],
+  "encoders": []
 }
